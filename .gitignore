@@ -1,0 +1,7 @@
+# Local user configuration and generated inventory.
+# Fresh clones get a default config.ini on first run.
+config.ini
+log.txt
+data/inventory.ini
+data/inventory.md
+data/config.backup.ini
